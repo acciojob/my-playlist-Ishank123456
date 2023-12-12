@@ -1,17 +1,16 @@
-body {
-  background-color: rgb(204, 204, 204);
+body{
+	background-color: rgb(204, 204, 204);
+}
+#e{
+	border:1px solid black;
+	border-radius:10px;
+	background-color:rgb(255, 255, 255);
+	margin:15px;
+}
+#g {
+    background-color: rgb(255, 255, 255);
+    padding: 20px; /* Add a specific value for padding */
+    border-radius: 10px;
+    margin: 40px;
 }
 
-#player-container {
-  background-color: rgb(255, 255, 255);
-  padding: 10px;
-  border-radius: 10px;
-  margin: 15px;
-}
-
-#songs-container {
-  background-color: rgb(255, 255, 255);
-  padding: 10px;
-  border-radius: 10px;
-  margin: 15px;
-}
